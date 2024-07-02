@@ -1,143 +1,143 @@
 [[fzf]]
 arch = "aarch64"
-git-tree-sha1 = "7fe25bacc11f5c85b49ca4e07f5c502b1eb78b62"
+git-tree-sha1 = "1796c86e5b19131a0978f5e58eb6425402895c47"
 os = "macos"
 
     [[fzf.download]]
-    sha256 = "21cbb3f46560e8b6eb7320d67e1532c0c35cd3b57e679155fdf83aa2dd1d6772"
-    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.49.0+0/fzf.v0.49.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "3e5d76af1163c2f4e3024e4cf12d08d5d20acbc27955e680c99bd69153362270"
+    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.53.0+0/fzf.v0.53.0.aarch64-apple-darwin.tar.gz"
 [[fzf]]
 arch = "aarch64"
-git-tree-sha1 = "fbe6fb6502a4ac5f8e0f3fe64fefee5fe99dec8d"
+git-tree-sha1 = "9c2cb2a35c63f42bf7e26809cb8eac56536aa6dd"
 libc = "glibc"
 os = "linux"
 
     [[fzf.download]]
-    sha256 = "9ca9945618b8605273900433d360addfebf6d3310a9943f0a7807e8364c1ec31"
-    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.49.0+0/fzf.v0.49.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "c8d7df9fc500213bfe2cd9ce96feada2e6e95936b7f5c2b7631950e93b8024e4"
+    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.53.0+0/fzf.v0.53.0.aarch64-linux-gnu.tar.gz"
 [[fzf]]
 arch = "aarch64"
-git-tree-sha1 = "fbe6fb6502a4ac5f8e0f3fe64fefee5fe99dec8d"
+git-tree-sha1 = "9c2cb2a35c63f42bf7e26809cb8eac56536aa6dd"
 libc = "musl"
 os = "linux"
 
     [[fzf.download]]
-    sha256 = "9ca9945618b8605273900433d360addfebf6d3310a9943f0a7807e8364c1ec31"
-    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.49.0+0/fzf.v0.49.0.aarch64-linux-musl.tar.gz"
+    sha256 = "c8d7df9fc500213bfe2cd9ce96feada2e6e95936b7f5c2b7631950e93b8024e4"
+    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.53.0+0/fzf.v0.53.0.aarch64-linux-musl.tar.gz"
 [[fzf]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "1fa3f9229d86dc2055c834991617215e98abe447"
+git-tree-sha1 = "5287c7ee5f6ac17644948cb9f07fd07ade8bd783"
 libc = "glibc"
 os = "linux"
 
     [[fzf.download]]
-    sha256 = "9ac5b4a8ee9a170f4eebed0d0904cd5dee3b1a0e39521dd385983f2155c3415a"
-    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.49.0+0/fzf.v0.49.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "44ec5981e3fb4ea1c60a647867414984bc0aaa227eb38a798a0e2ca553661669"
+    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.53.0+0/fzf.v0.53.0.armv6l-linux-gnueabihf.tar.gz"
 [[fzf]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "1fa3f9229d86dc2055c834991617215e98abe447"
+git-tree-sha1 = "5287c7ee5f6ac17644948cb9f07fd07ade8bd783"
 libc = "musl"
 os = "linux"
 
     [[fzf.download]]
-    sha256 = "9ac5b4a8ee9a170f4eebed0d0904cd5dee3b1a0e39521dd385983f2155c3415a"
-    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.49.0+0/fzf.v0.49.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "44ec5981e3fb4ea1c60a647867414984bc0aaa227eb38a798a0e2ca553661669"
+    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.53.0+0/fzf.v0.53.0.armv6l-linux-musleabihf.tar.gz"
 [[fzf]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "56f9a7d9f0a424d7607edbc5d3a0fb372bd4be70"
+git-tree-sha1 = "74d49893a5e002a6350e72154cfc9bbcc0822488"
 libc = "glibc"
 os = "linux"
 
     [[fzf.download]]
-    sha256 = "3535cd7058cbfa64be4fd6cb23d4a88c7e8710404b6f3ef2222893afbc310468"
-    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.49.0+0/fzf.v0.49.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "813d9a272d07e29c166c6b935c83d6fbc6b58186d000f201f1b04a8575244556"
+    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.53.0+0/fzf.v0.53.0.armv7l-linux-gnueabihf.tar.gz"
 [[fzf]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "56f9a7d9f0a424d7607edbc5d3a0fb372bd4be70"
+git-tree-sha1 = "74d49893a5e002a6350e72154cfc9bbcc0822488"
 libc = "musl"
 os = "linux"
 
     [[fzf.download]]
-    sha256 = "3535cd7058cbfa64be4fd6cb23d4a88c7e8710404b6f3ef2222893afbc310468"
-    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.49.0+0/fzf.v0.49.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "813d9a272d07e29c166c6b935c83d6fbc6b58186d000f201f1b04a8575244556"
+    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.53.0+0/fzf.v0.53.0.armv7l-linux-musleabihf.tar.gz"
 [[fzf]]
 arch = "i686"
-git-tree-sha1 = "c57a36603ec2835fb8c86e8d35ad2e5ddf38e427"
+git-tree-sha1 = "b45c94b8c379aa86662600ed270eeeae755c55b0"
 libc = "glibc"
 os = "linux"
 
     [[fzf.download]]
-    sha256 = "50fc9d0df9d15aca76e5de8139109e89b336f1080e0f07ce064bec0ad14aeee3"
-    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.49.0+0/fzf.v0.49.0.i686-linux-gnu.tar.gz"
+    sha256 = "00767c55bc34330deb401ed37f4d717abedff1d0046d01e5d38fd69eb6ad76d0"
+    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.53.0+0/fzf.v0.53.0.i686-linux-gnu.tar.gz"
 [[fzf]]
 arch = "i686"
-git-tree-sha1 = "c57a36603ec2835fb8c86e8d35ad2e5ddf38e427"
+git-tree-sha1 = "b45c94b8c379aa86662600ed270eeeae755c55b0"
 libc = "musl"
 os = "linux"
 
     [[fzf.download]]
-    sha256 = "50fc9d0df9d15aca76e5de8139109e89b336f1080e0f07ce064bec0ad14aeee3"
-    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.49.0+0/fzf.v0.49.0.i686-linux-musl.tar.gz"
+    sha256 = "00767c55bc34330deb401ed37f4d717abedff1d0046d01e5d38fd69eb6ad76d0"
+    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.53.0+0/fzf.v0.53.0.i686-linux-musl.tar.gz"
 [[fzf]]
 arch = "i686"
-git-tree-sha1 = "29c6e65f58e2d5f851ee4ad74d67f08552d09676"
+git-tree-sha1 = "ac28d114cec2f344367d2a189b6c530dd048b29e"
 os = "windows"
 
     [[fzf.download]]
-    sha256 = "7a269c99b83955c6df766d735faa1e32d9339f78ee9a7224e360eae391f0b360"
-    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.49.0+0/fzf.v0.49.0.i686-w64-mingw32.tar.gz"
+    sha256 = "64b60536798f70fb943187c003aae51e4bb694b579a4a9c9dd61c9b6823ecd08"
+    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.53.0+0/fzf.v0.53.0.i686-w64-mingw32.tar.gz"
 [[fzf]]
 arch = "powerpc64le"
-git-tree-sha1 = "3516f03dd4d9d17afa323de78b330a1e98f21367"
+git-tree-sha1 = "61d7740bc8194120c66d9cf69d9dfd754ab8b9b1"
 libc = "glibc"
 os = "linux"
 
     [[fzf.download]]
-    sha256 = "a88409e5feec8e66224d32eae7edfa69edcddba48032e259ccd864b2b00f9196"
-    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.49.0+0/fzf.v0.49.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "1abae60561bfe101e2fef2d7720a411c0fb24400aea5e797e56b126952512cd9"
+    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.53.0+0/fzf.v0.53.0.powerpc64le-linux-gnu.tar.gz"
 [[fzf]]
 arch = "x86_64"
-git-tree-sha1 = "efb45b47a6b77a2e1049e7fe9af8e295240396fd"
+git-tree-sha1 = "e1be8da1128c442a05c51fca0fe829bd9b3ec040"
 os = "macos"
 
     [[fzf.download]]
-    sha256 = "f6d46bb1f8fa1aa3aa04c5a0f5922c3107bf9dce10d4f23bed771bfa1f5ea388"
-    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.49.0+0/fzf.v0.49.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "6626b24aba8f56b2788e91fb36c1923ae21bac6f8ec75e68622864ced7866441"
+    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.53.0+0/fzf.v0.53.0.x86_64-apple-darwin.tar.gz"
 [[fzf]]
 arch = "x86_64"
-git-tree-sha1 = "d74691cb06c777927ed5035dc33adc392bca99cd"
+git-tree-sha1 = "d345fbb2eaa774696f91a7ec8bcecdd82adeeca8"
 libc = "glibc"
 os = "linux"
 
     [[fzf.download]]
-    sha256 = "83cd300ca0f2c4f18e2c771290a6eb8d1f340f34dddab6609ac00719956469ea"
-    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.49.0+0/fzf.v0.49.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "273fe481380454661acd68f8ad90323feefd1002ffd7f11c64ff46781564d1d8"
+    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.53.0+0/fzf.v0.53.0.x86_64-linux-gnu.tar.gz"
 [[fzf]]
 arch = "x86_64"
-git-tree-sha1 = "7726a3f166a980ce777269ace8bb51f2a8819f97"
+git-tree-sha1 = "53f558cd94c29ec0b22a9d5348ad9054e2b2aaa8"
 libc = "musl"
 os = "linux"
 
     [[fzf.download]]
-    sha256 = "b9ec7fb6698e7d2394635d2171009d19fad7d8a0a076e3e460205c556eb14c02"
-    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.49.0+0/fzf.v0.49.0.x86_64-linux-musl.tar.gz"
+    sha256 = "9cd93e4fc0a8f80e7d68513c2ad0e343ee9cfa546f3b20dfb37e2fc7472e0c9e"
+    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.53.0+0/fzf.v0.53.0.x86_64-linux-musl.tar.gz"
 [[fzf]]
 arch = "x86_64"
-git-tree-sha1 = "45fae4dfa276338c836f4f84b987a7b92696b86b"
+git-tree-sha1 = "8db15bff0648a7e9ed2a7fc0dd8f8ef24ee5db7c"
 os = "freebsd"
 
     [[fzf.download]]
-    sha256 = "6d7cfdd52efe8e7a783201217405d67d062bb2653a51786fa7295adedd2ed069"
-    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.49.0+0/fzf.v0.49.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "0bc94c0f04a798d41a09f420df5f0caa072ba5fbd5af0a4a911f88bfd5a47b06"
+    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.53.0+0/fzf.v0.53.0.x86_64-unknown-freebsd.tar.gz"
 [[fzf]]
 arch = "x86_64"
-git-tree-sha1 = "1f1fc5a900e85f07d1182c793b1a09eb7db39d2f"
+git-tree-sha1 = "f97460df0eac3f5cab71849f4ee6390323c92283"
 os = "windows"
 
     [[fzf.download]]
-    sha256 = "051086f47840237fcaa62012f88021b10dc12b70b33b5799412dd7a086ae43e9"
-    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.49.0+0/fzf.v0.49.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "bf4750c5574055b9da14b7c498671eac591e231a766ab269708e90767da01494"
+    url = "https://github.com/JuliaBinaryWrappers/fzf_jll.jl/releases/download/fzf-v0.53.0+0/fzf.v0.53.0.x86_64-w64-mingw32.tar.gz"
